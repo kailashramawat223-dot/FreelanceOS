@@ -1,6 +1,8 @@
 # 💼 FreelanceOS — Unified Freelancer Workspace
 **SPHINX '26 · Problem Statement 1.5** · Working full-stack prototype (React + Node.js)
 
+**Live demo:** https://freelanceos-i62i.onrender.com/
+
 > **Demo login:** `admin@freelanceos.in` / `demo123`
 > **Client portal demo (no login):** `/#/portal/meera-demo` · `/#/portal/aarav-demo`
 
